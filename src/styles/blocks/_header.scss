@@ -1,0 +1,20 @@
+.header {
+    width: 100%;
+    background-color: $color-dark;
+}
+
+.link {
+    display: flex;
+}
+
+.href {
+    color: #fff;
+}
+
+.test {
+    a:hover{
+        color: $color-orang;
+
+    }
+}
+
